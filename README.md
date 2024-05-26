@@ -37,4 +37,5 @@ but computing this directly is very slow (similar computations are used to creat
 ## References
 
 [1] R. L. Rivest, A. Shamir, D. A. Wagner, _Time-lock puzzles and timed-release crypto_, [dspace.mit.edu](https://dspace.mit.edu/bitstream/handle/1721.1/149822/MIT-LCS-TR-684.pdf)
+
 [2] J. Hurchalla, _An improved integer modular multiplicative inverse (modulo 2^w)_, [arxiv.org](https://arxiv.org/abs/2204.04342)
